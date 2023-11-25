@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Application.h
+iostream
+-
+
+/home/smh/myproj/secure_delete/secure_delete/main.cpp
+iostream
+-
+Application.h
+/home/smh/myproj/secure_delete/secure_delete/Application.h
+
+/home/smh/myproj/secure_delete/secure_delete/src/Application.cpp
+Application.h
+/home/smh/myproj/secure_delete/secure_delete/src/Application.h
+

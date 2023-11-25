@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/sd.dir/main.cpp.o CMakeFiles/sd.dir/src/Utils.cpp.o CMakeFiles/sd.dir/src/Application.cpp.o CMakeFiles/sd.dir/src/ParsingCommand.cpp.o  -o sd 
